@@ -1,2 +1,3 @@
 ## The Heart C++
-![heart_gif](https://github.com/user-attachments/assets/0def89ec-0ed6-4204-bc10-3f503761e8bb)
+
+![2024-12-1818-46-39-ezgif com-crop](https://github.com/user-attachments/assets/de21e656-30f6-4f0a-9465-7a4a2eb25511)
